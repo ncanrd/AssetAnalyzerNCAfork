@@ -13,3 +13,5 @@ test checkout
 test checkout again
 
 test pull from remote 20220222 1800
+testing push to remote 20220222 1800 
+testing multiple changes some staged, some not
