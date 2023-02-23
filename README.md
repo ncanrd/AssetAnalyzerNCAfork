@@ -17,3 +17,5 @@ testing push to remote 20220222 1800
 testing multiple changes some staged, some not
 
 Branch Testing git add 
+
+Try creating a remote branch by pushing from local
